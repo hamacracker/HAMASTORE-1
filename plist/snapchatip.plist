@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://archive.org/download/alight-motion-4.5.12-1685095544/Alight%20Motion_4.5.12_1685095544.ipa</string>
+					<string>https://archive.org/download/snapchat-12.06.0-1685098064/Snapchat_12.06.0_1685098064.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -33,15 +33,15 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.alightcreative.motion55</string>
+				<string>com.toyopagroup.picaboohama</string>
 				<key>bundle-version</key>
 				<string>438</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>Alight Motion Hack</string>
+				<string>Snapchat+IP</string>
 				<key>title</key>
-				<string>Alight Motion Hack</string>
+				<string>Snapchat+IP</string>
 			</dict>
 		</dict>
 	</array>
