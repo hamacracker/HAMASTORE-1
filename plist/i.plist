@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://archive.org/download/instagram-hamastore-271.1-1685100457/Instagram-HAMASTORE_271.1_1685100457.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<false/>
+					<key>url</key>
+					<string>https://archive.org/download/98-e-89-ac-7-7905-4284-85-b-1-ce-1-c-4735-e-007/98E89AC7-7905-4284-85B1-CE1C4735E007.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<false/>
+					<key>url</key>
+					<string>https://archive.org/download/98-e-89-ac-7-7905-4284-85-b-1-ce-1-c-4735-e-007/98E89AC7-7905-4284-85B1-CE1C4735E007.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.burbn.instagram.HAMASTORE</string>
+				<key>bundle-version</key>
+				<string>438</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>subtitle</key>
+				<string>Instagram BY HAMASTORE</string>
+				<key>title</key>
+				<string>Instagram By HAMASTORE</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
